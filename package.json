@@ -1,4 +1,4 @@
-{
+
     "name": "@pinetwork/pi-sdk-express",
     "version": "2.0.0",
     "description": "An Express.js SDK for Pi Network transaction processing",
@@ -53,4 +53,5 @@
         "pi-sdk-js": "2.0.0",
         "yarn": "^1.22.22"
     }
-}
+
+
